@@ -2,9 +2,9 @@
 This (basic) game is made with Unreal Engine 4.27
 
 Features:
-+ Drop/Equip Weapons ✔️
++ Drop/Equip Weapons 🔃
 + Sprint/Walk/Crounch ✔️
-+ Switch weapons 🔃
++ Switch weapons ✔️
 + Inventory 🔃
 + Reload system ✔️
 + Fire Mode (Single-Auto) 🔃
