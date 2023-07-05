@@ -7,6 +7,7 @@ Features:
 + Switch weapons ✔️
 + Inventory 🔃
 + Reload system ✔️
++ Weapon(Rifle) Magazine Recharge ✔️
 + Fire Mode (Single-Auto) 🔃
 + Ragdoll Recover (without animation) ✔️
 + Head Rotation ✔️
