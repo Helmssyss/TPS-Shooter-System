@@ -1,6 +1,8 @@
 # TPS-Shooter-Game
 This (basic) game is made with Unreal Engine 4.27
 
+Developed with Blueprint and C++
+
 Features:
 - [ ] Drop/Equip Weapons
 - [x] Sprint/Walk/Crounch
@@ -11,6 +13,8 @@ Features:
 - [ ] Fire Mode (Single-Auto)
 - [x] Ragdoll Recover (without animation)
 - [x] Head Rotation
+- [x] Bullet Impact Particle
+- [ ] Customizable weapons
 + To be continued...
 
 
