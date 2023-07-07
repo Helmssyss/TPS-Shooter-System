@@ -15,6 +15,7 @@ Features:
 - [x] Head Rotation
 - [x] Bullet Impact Particle
 - [ ] Customizable weapons
+- [x] Bullet Decals
 + To be continued...
 
 
