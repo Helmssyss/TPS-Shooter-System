@@ -10,7 +10,7 @@ Features:
 - [ ] Inventory
 - [x] Reload system
 - [x] Weapon(Rifle) Magazine Recharge
-- [ ] Fire Mode (Single-Auto)
+- [x] Fire Mode (Single-Auto)
 - [x] Ragdoll Recover (without animation)
 - [x] Head Rotation
 - [x] Bullet Impact Particle
