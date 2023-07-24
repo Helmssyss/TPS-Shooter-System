@@ -1,0 +1,3 @@
+- seri atışta mermi bitse dahi ateşe devam etmesi, / Continuing to fire even if the bullet runs out in rapid fire,
+- silah slotları doluyken elde iki adet silahın olması, / Having two weapons in hand when the weapon slots are full,
+- şarjör değiştiğinde yere düşen şarjörü alması, / picking up the clip that fell on the ground when the magazine is changed,
