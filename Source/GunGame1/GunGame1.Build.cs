@@ -8,9 +8,6 @@ public class GunGame1 : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", 
-															"InputCore" ,"Slate", "SlateCore", 
-															"UMG", "PhysicsCore","AIModule",
-															"NavigationSystem"});
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" ,"Slate", "SlateCore", "UMG", "PhysicsCore","AIModule","NavigationSystem"});
 	}
 }
