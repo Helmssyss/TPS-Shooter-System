@@ -7,7 +7,7 @@ Features:
 - [x] Drop/Equip Weapons
 - [x] Sprint/Walk/Crounch
 - [x] Switch weapons
-- [ ] Inventory
+- [x] Inventory
 - [x] Reload system
 - [x] Weapon(Rifle) Magazine Recharge
 - [x] Fire Mode (Single-Auto)
