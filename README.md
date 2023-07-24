@@ -5,7 +5,7 @@ Developed with Blueprint and C++
 
 Features:
 - [x] Drop/Equip Weapons
-- [x] Sprint/Walk/Crounch
+- [x] Sprint/Walk
 - [x] Switch weapons
 - [x] Inventory
 - [x] Reload system
