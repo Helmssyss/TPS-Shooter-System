@@ -1,5 +1,5 @@
-# TPS-Shooter-Game
-This (basic) game is made with Unreal Engine 4.27
+# TPS-Shooter-System
+This (basic) system is made with Unreal Engine 4.27
 
 Developed with Blueprint and C++
 
@@ -14,7 +14,6 @@ Features:
 - [x] Ragdoll Recover (without animation)
 - [x] Head Rotation
 - [x] Bullet Impact Particle
-- [ ] Customizable weapons
 - [x] Bullet Decals
 + To be continued...
 
