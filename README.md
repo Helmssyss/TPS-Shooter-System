@@ -20,4 +20,7 @@ Features:
 
 ![Untitled](https://github.com/Helmssyss/TPS-Shooter-Game/assets/84701901/bf1e9fe9-be45-4130-b91a-6edc16a61206)
 
+![Screenshot 2023-07-24 141359](https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/71b8f358-2a82-4a76-bff7-c9c3add86f24)
+
+
 [![Hits](https://hits.sh/github.com/Helmssyss/TPS-Shooter-Game.svg?label=views&color=007ec6)](https://hits.sh/github.com/Helmssyss/TPS-Shooter-Game/)
