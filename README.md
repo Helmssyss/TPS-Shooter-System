@@ -1,5 +1,5 @@
 # TPS-Shooter-System
-This (basic) system is made with Unreal Engine 4.27
+This (beginner) system is made with Unreal Engine 4.27
 
 Developed with Blueprint and C++
 
