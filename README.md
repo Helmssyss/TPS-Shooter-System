@@ -4,7 +4,7 @@ This (basic) system is made with Unreal Engine 4.27
 Developed with Blueprint and C++
 
 Features:
-- [ ] Drop/Equip Weapons
+- [x] Drop/Equip Weapons
 - [x] Sprint/Walk/Crounch
 - [x] Switch weapons
 - [ ] Inventory
