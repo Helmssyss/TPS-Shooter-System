@@ -16,6 +16,11 @@ Features:
 - [x] Bullet Impact Particle
 - [x] Bullet Decals
 
+---
+-  My other repos:
+    -  [FPS-TPS-Shooter-System | Intermediate-Advance](https://github.com/Helmssyss/FPTP-Shooter-System)
+    - [TPS-Shooter-System | Intermediate](https://github.com/Helmssyss/TPS-Shooter-System-Alternative)
+    - [TPS-Shooter-System | Beginner](https://github.com/Helmssyss/TPS-Shooter-System)
 
 ![Untitled](https://github.com/Helmssyss/TPS-Shooter-Game/assets/84701901/bf1e9fe9-be45-4130-b91a-6edc16a61206)
 
